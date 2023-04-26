@@ -1,2 +1,6 @@
 # Network-Cards-Details
-Show the principal details of your network card with state up, you can specify the card you want to know linke that: sudo ./Show_Network_Details.sh &lt;card>.
+
+This script has been done to display the main details of your network card(s) which are up, you can specify the card which you want to know like that:
+sudo ./Show_Network_Details.sh <Network_Card>.
+
+Thnx for whatching
